@@ -18,21 +18,9 @@
       <testCaseId>Test Cases/Positive_Case</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>a34226f6-d2c7-4e02-814a-0f54c0d6d17f</guid>
+      <guid>76f1e24d-2bec-4c9a-939e-d5e66040f705</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SeatClassDropdown</testCaseId>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>ef1d3a84-1711-41bd-9cf6-30d07e4ee126</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>f4296b69-ef97-49eb-abb2-68f2a8d03726</variableId>
-      </variableLink>
+      <testCaseId>Test Cases/Positive_Case_RoundTrip</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
